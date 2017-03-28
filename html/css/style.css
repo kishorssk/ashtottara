@@ -1,11 +1,11 @@
 h1, h2 {
-color: red;
+color: #ad0b0b;
 }
 h3 {
 color:#ad0b0b
 }
 h4 {
-color : blue;
+color : #ad0b0b;
 }
 p{
 text-align : left;
@@ -13,7 +13,7 @@ font-size : 18px;
 }
 /* unvisited link */
 a:link {
-    color: green;
+    color: #ad0b0b;
     text-decoration: none;
 }
 
@@ -25,10 +25,10 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: hotpink;
+    color: red;
 }
 
 /* selected link */
 a:active {
-    color: blue;
+    color: #ad0b0b;
 }
