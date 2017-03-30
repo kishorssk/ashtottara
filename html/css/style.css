@@ -9,8 +9,22 @@ color : #ad0b0b;
 }
 p{
 text-align : left;
-font-size : 18px;
+font-size : 16px;
 }
+font {
+color : black;
+font-size : 16px;
+}
+/*
+.col-sm-4{
+ border-bottom: solid  #ffefef;
+ padding : 10px;
+ 
+}
+*/
+
+
+
 /* unvisited link */
 a:link {
     color: #ad0b0b;
